@@ -1,0 +1,12 @@
+20230204	11:44:25	3f53db86-6447-4e66-bde8-0de182cd8096	Error: Not allowed by CORS
+20230206	10:45:08	33bfc586-c262-4e8d-8718-4c6a647d57f9	TypeError: res.senStatus is not a function
+20230206	10:45:57	c5b7ea1a-482c-43fc-8884-4d0947bcb197	TypeError: res.senStatus is not a function
+20230206	10:46:09	037e62f0-1e1a-4b6d-808c-2dfad6b0bdaa	TypeError: res.senStatus is not a function
+20230206	10:47:14	3d37a865-f78b-417b-a7f9-4f371a4052b4	TypeError: res.senStatus is not a function
+20230206	10:50:30	9f85c805-7553-4fda-9404-4e47ba36624b	TypeError: res.senStatus is not a function
+20230206	10:51:11	19883363-1955-4f12-b5de-849770508e91	TypeError: res.senStatus is not a function
+20230206	10:56:57	c2e6a1f4-c53d-4e5f-8bfd-d43c65ceaaf7	TypeError: res.senStatus is not a function
+20230206	11:22:46	dc579439-0def-4660-b611-d1385ee81daa	ReferenceError: err is not defined
+20230206	11:24:36	f6de68b6-14dc-4e44-961c-1d14f5c52bb4	ReferenceError: err is not defined
+20230207	09:36:02	fc916c8d-f09c-419d-8b47-bcef590a7433	ReferenceError: whitelist is not defined
+20230214	12:48:35	52fec322-e6a8-4070-94ad-a7c3c0f561a8	Error: Not allowed by CORS
